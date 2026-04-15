@@ -1,0 +1,13 @@
+node_modules/
+dist/
+temp/
+temp_reports/
+reports/
+tests/fixtures/.auth/
+
+# Environment — never commit real credentials
+.env
+
+# OS
+.DS_Store
+Thumbs.db

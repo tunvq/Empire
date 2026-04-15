@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Test artifacts
+temp/
+temp_reports/
+reports/
+tests/fixtures/.auth/
+playwright-report/
+test-results/
+
+# Environment — never commit credentials
+.env
+*.env.local
+
+# Claude Code local settings (machine-specific)
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
