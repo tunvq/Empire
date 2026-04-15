@@ -1,8 +1,11 @@
 node_modules/
 dist/
-temp/
-temp_reports/
-reports/
+temp/*
+!temp/.gitkeep
+temp_reports/*
+!temp_reports/.gitkeep
+reports/*
+!reports/.gitkeep
 tests/fixtures/.auth/
 
 # Environment — never commit real credentials
