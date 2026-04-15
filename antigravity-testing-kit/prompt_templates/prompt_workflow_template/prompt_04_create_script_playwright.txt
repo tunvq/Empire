@@ -1,0 +1,17 @@
+/generate_automation_from_testcases
+
+# CONTEXT
+- Language: TypeScript
+- Test Framework: Playwright Test
+- Design Pattern: Page Object Model (POM)
+- Build tool: npm
+
+Test Scenario:
+[DÁN TEST SCENARIO VÀO ĐÂY]
+URL: [URL hệ thống]
+Tài khoản test: [EMAIL] / [PASSWORD]
+
+# OUTPUT FORMAT
+1. Page Object: [Tên]Page.ts
+2. Test file: [tên].spec.ts
+3. Utils: DataGenerator.ts (nếu cần)

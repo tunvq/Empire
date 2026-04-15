@@ -1,0 +1,15 @@
+/generate_automation_from_testcases
+
+# CONTEXT
+- Framework: [Playwright / Selenium / Appium]
+- Language: [TypeScript / Java]
+- Design Pattern: Page Object Model (POM)
+- Hệ thống: [Web / Mobile App] tại URL: [URL hoặc Package name]
+
+[NỘI DUNG TEST CASE DÁN VÀO ĐÂY]
+
+# OUTPUT FORMAT
+1. Giải thích tóm tắt logic (2-3 câu)
+2. Cấu trúc file dự kiến
+3. Source Code: Page Class, Test Class, Data/Utils Class
+4. Lưu ý: Vị trí cần gắn locator thực tế (nếu không inspect được)
